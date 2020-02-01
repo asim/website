@@ -3,9 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "The home of Asim Aslam"
-description: ""
-theme: ""
 ---
 
   <style>
