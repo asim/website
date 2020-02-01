@@ -18,7 +18,7 @@ layout: home
     html a {
       color: #333;
     }
-    ul {
+    ul, #persona {
       list-style: none;
       margin: 0;
       padding: 0;
