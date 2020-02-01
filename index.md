@@ -8,6 +8,8 @@ description: ""
 theme: ""
 ---
 
+<html>
+  <head>
   <style>
     html, body {
       height: 100%;
@@ -41,7 +43,8 @@ theme: ""
       padding: 10px;
     }
   </style>
-
+  </head>
+  <body>
   <div id="container">
     <p><img src="images/me.jpg"/></p>
     <ul id="persona">
@@ -62,3 +65,5 @@ theme: ""
   ga('send', 'pageview');
 
 </script>
+  </body>
+</html>
