@@ -7,7 +7,6 @@ layout: home
 
   <style>
     html, body {
-      height: 100%;
       width: 100%;
       font-family:  "Helvetica Neue", Helvetica, Arial, "Lucida Grande";
       font-size: 1.2em;
