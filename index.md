@@ -43,7 +43,7 @@ layout: home
     <ul id="persona">
      <li><a href="https://linkedin.com/in/asimaslam">L</a></li>
      <li><a href="https://github.com/asim">G</a></li>
-     <li><a href="https://twitter.com/chuhnk">T</a></li>
+     <li><a href="https://twitter.com/malsamisa">T</a></li>
      <li><a href="https://micro.mu">M</a></li>
     </ul>
   </div>
