@@ -8,8 +8,6 @@ description: ""
 theme: ""
 ---
 
-<html>
-  <head>
   <style>
     html, body {
       height: 100%;
@@ -40,11 +38,10 @@ theme: ""
     #persona li {
       font-weight: bold;
       display: inline-block;
-      padding: 10px;
+      padding: 0;
     }
   </style>
-  </head>
-  <body>
+ 
   <div id="container">
     <p><img src="images/me.jpg"/></p>
     <ul id="persona">
@@ -65,5 +62,3 @@ theme: ""
   ga('send', 'pageview');
 
 </script>
-  </body>
-</html>
