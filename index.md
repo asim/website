@@ -35,7 +35,7 @@ layout: home
     #persona li {
       font-weight: bold;
       display: inline-block;
-      padding: 0;
+      padding: 10px;
     }
   </style>
  
