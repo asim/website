@@ -10,6 +10,7 @@ layout: home
       width: 100%;
       font-family:  "Helvetica Neue", Helvetica, Arial, "Lucida Grande";
       font-size: 1.2em;
+      background-color: whitesmoke;
       color: #333;
       margin: 0;
       padding: 0;
