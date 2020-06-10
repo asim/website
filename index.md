@@ -45,7 +45,7 @@ layout: home
      <li><a href="https://linkedin.com/in/asimaslam">L</a></li>
      <li><a href="https://github.com/asim">G</a></li>
      <li><a href="https://twitter.com/microhq">T</a></li>
-     <li><a href="https://micro.mu">M</a></li>
+     <li><a href="https://m3o.com">M</a></li>
     </ul>
   </div>
 
