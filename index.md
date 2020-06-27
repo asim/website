@@ -18,11 +18,6 @@ layout: home
     html a {
       color: #333;
     }
-    ul, #persona {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-    }
     img {
       border-radius: 50%;
     }
@@ -32,21 +27,14 @@ layout: home
       padding: 40px 0;
       text-align: center;
     }
-    #persona li {
-      font-weight: bold;
-      display: inline-block;
-      padding: 10px;
-    }
   </style>
  
   <div id="container">
-    <p><img src="images/me.jpg"/></p>
-    <ul id="persona">
-     <li><a href="https://linkedin.com/in/asimaslam">L</a></li>
-     <li><a href="https://github.com/asim">G</a></li>
-     <li><a href="https://twitter.com/microhq">T</a></li>
-     <li><a href="https://m3o.com">M</a></li>
-    </ul>
+    <p>
+      <a href="https://linkedin.com/in/asimaslam">
+        <img src="images/me.jpg"/>
+      </a>
+    </p>
   </div>
 
 <script>
