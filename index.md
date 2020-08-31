@@ -31,7 +31,7 @@ layout: home
  
   <div id="container">
     <p>
-      <a href="https://linkedin.com/in/asimaslam">
+      <a href="https://github.com/asim">
         <img src="images/me.jpg"/>
       </a>
     </p>
