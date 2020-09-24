@@ -9,7 +9,7 @@ layout: home
     html, body {
       width: 100%;
       font-family:  "Helvetica Neue", Helvetica, Arial, "Lucida Grande";
-      font-size: 1.2em;
+      font-size: 1.0em;
       background-color: whitesmoke;
       color: #333;
       margin: 0;
@@ -34,6 +34,10 @@ layout: home
       <a href="https://github.com/asim">
         <img src="images/me.jpg"/>
       </a>
+    </p>
+    <p>I'm Asim Aslam. The Founder CEO of Micro Services, Inc.,
+       the creator of the open source framework <a href="https://micro.mu">Micro</a>
+       and a technologist by training.
     </p>
   </div>
 
