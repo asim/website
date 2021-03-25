@@ -36,7 +36,7 @@ layout: home
       </a>
     </p>
     <p>I'm Asim Aslam. The Founder CEO of Micro Services, Inc.,
-       the creator of the open source framework <a href="https://micro.mu">Micro</a>
+       creator of the open source cloud platform <a href="https://micro.mu">Micro</a>
        and a technologist by training.
     </p>
   </div>
