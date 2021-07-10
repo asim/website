@@ -17,6 +17,7 @@ layout: home
     }
     html a {
       color: #333;
+      text-decoration: underline;
     }
     img {
       border-radius: 50%;
@@ -35,8 +36,8 @@ layout: home
         <img src="images/me.jpg"/>
       </a>
     </p>
-    <p>I'm Asim Aslam. The Founder CEO of Micro Services, Inc.,
-       creator of the open source cloud platform <a href="https://micro.mu">Micro</a>
+    <p>I'm Asim Aslam. The founder of <a href="https://m3o.com">Micro</a>,
+       creator of the open source framework <a href="https://go-micro.dev">Go Micro</a>
        and a technologist by training.
     </p>
   </div>
