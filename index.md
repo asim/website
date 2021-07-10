@@ -36,9 +36,9 @@ layout: home
         <img src="images/me.jpg"/>
       </a>
     </p>
-    <p>I'm Asim Aslam. The founder of <a href="https://m3o.com">Micro</a>,
-       creator of the open source framework <a href="https://go-micro.dev">Go Micro</a>
-       and a technologist by training.
+    <p>I'm Asim Aslam. The founder of <a href="https://m3o.com">Micro</a>. 
+      I created the open source distributed systems framework <a href="https://go-micro.dev">Go Micro</a>
+       and am a technologist by training.
     </p>
   </div>
 
