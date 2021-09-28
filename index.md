@@ -36,7 +36,7 @@ layout: home
         <img src="images/me.jpg"/>
       </a>
     </p>
-    <p>I'm Asim Aslam. The founder of <a href="https://m3o.com">Micro</a>,  
+    <p>I am a muslim. The founder of <a href="https://m3o.com">Micro</a>,  
       creator of the open source Go framework 
       <a href="https://go-micro.dev">Go Micro</a>
        and a technologist by training.
