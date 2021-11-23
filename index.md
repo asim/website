@@ -36,13 +36,11 @@ layout: home
         <img src="images/me.jpg"/>
       </a>
     </p>
-    <p>I am a <a href="https://en.wikipedia.org/wiki/Muslims">Muslim</a>, building 
-      the community <a href="https://786.world/">786</a>. Empowering developers with 
+      Empowering developers with 
       <a href="https://m3o.com">M3O</a>. Founder of <a href="https://micro.mu">Micro</a>,  
       creator of the open source framework <a href="https://go-micro.dev">Go Micro</a>
        and a technologist by training.
     </p>
-    <p>As-Salam</p>
   </div>
 
 <script>
