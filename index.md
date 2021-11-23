@@ -36,6 +36,7 @@ layout: home
         <img src="images/me.jpg"/>
       </a>
     </p>
+    <p>
       Empowering developers with 
       <a href="https://m3o.com">M3O</a>. Founder of <a href="https://micro.mu">Micro</a>,  
       creator of the open source framework <a href="https://go-micro.dev">Go Micro</a>
