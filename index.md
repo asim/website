@@ -30,7 +30,6 @@ layout: home
     }
     ul {
       list-style-type: none;
-      padding: 0;
     }
     li {
       display: inline;
@@ -51,7 +50,7 @@ layout: home
        and a technologist by training.
     </p>
     <p>
-      <ul>
+      <ul style="padding: 0;">
         <li><a href="https://www.linkedin.com/in/asimaslam/">L</a></li>
         <li><a href="https://github.com/asim">G</a></li>
         <li><a href="https://twitter.com/malsamisa">T</a></li>
