@@ -28,6 +28,13 @@ layout: home
       padding: 40px 0;
       text-align: center;
     }
+    ul {
+      list-style-type: none;
+    }
+    li {
+      display: inline;
+      padding: 5px;
+    }
   </style>
  
   <div id="container">
@@ -42,6 +49,14 @@ layout: home
       creator of the open source framework <a href="https://go-micro.dev">Go Micro</a>
        and a technologist by training.
     </p>
+    <p>
+      <ul>
+        <li><a href="https://www.linkedin.com/in/asimaslam/">L</a></li>
+        <li><a href="https://github.com/asim">G</a></li>
+        <li><a href="https://twitter.com/malsamisa">T</a></li>
+        <li><a href="https://medium.com/@asimaslam">M</a></li>
+      <ul>
+    <p>
   </div>
 
 <script>
