@@ -30,6 +30,7 @@ layout: home
     }
     ul {
       list-style-type: none;
+      padding: 0;
     }
     li {
       display: inline;
