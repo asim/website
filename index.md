@@ -55,8 +55,8 @@ layout: home
         <li><a href="https://github.com/asim">G</a></li>
         <li><a href="https://twitter.com/malsamisa">T</a></li>
         <li><a href="https://medium.com/@asimaslam">M</a></li>
-      <ul>
-    <p>
+      </ul>
+    </p>
   </div>
 
 <script>
