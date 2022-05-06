@@ -44,7 +44,7 @@ layout: home
       </a>
     </p>
     <p>
-      On a journey to the great unknown.
+      On a journey to the great unknown
     </p>
     <p>
       <ul style="padding: 0;">
