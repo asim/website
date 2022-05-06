@@ -44,10 +44,7 @@ layout: home
       </a>
     </p>
     <p>
-      Empowering developers with 
-      <a href="https://m3o.com">M3O</a>. Founder of <a href="https://micro.mu">Micro</a>,  
-      creator of the open source framework <a href="https://go-micro.dev">Go Micro</a>
-       and a technologist by training.
+      On a journey to the great unknown.
     </p>
     <p>
       <ul style="padding: 0;">
