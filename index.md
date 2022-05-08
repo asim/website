@@ -44,9 +44,6 @@ layout: home
       </a>
     </p>
     <p>
-      On a journey to the great unknown
-    </p>
-    <p>
       <ul style="padding: 0;">
         <li><a href="https://www.linkedin.com/in/asimaslam/">L</a></li>
         <li><a href="https://github.com/asim">G</a></li>
