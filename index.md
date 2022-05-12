@@ -38,7 +38,7 @@ layout: home
   </style>
  
   <div id="container">
-    <p>Hi, I'm Asim Aslam</p><p>See below for more info</p>
+    <p>I'm Asim Aslam</p><p>See below for more info</p>
     <p>
       <ul style="padding: 0;">
         <li><a href="https://www.linkedin.com/in/asimaslam/">L</a></li>
