@@ -47,6 +47,7 @@ layout: home
         <li><a href="https://medium.com/@asimaslam">M</a></li>
       </ul>
     </p>
+    <p><a href="/writing">Writing</a></p>
   </div>
 
 <script>
