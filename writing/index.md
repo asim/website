@@ -23,7 +23,7 @@ layout: home
       text-align: left;
     }
     ul {
-      list-style-type: none;
+      list-style-type: circle;
       margin: 0;
       padding: 0;
     }
