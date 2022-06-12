@@ -32,7 +32,7 @@ Yet we are just mere creations of this universe, we are an evolutionary part of 
 it's origin is an almost impossible task. Can a fictional character in a story know it's author? Can an avatar in a game know it's within a game? Not without authority 
 from it's creator. So who is the creator? Who is the origin of the universe? Who is the source of truth?
 
-These are deeply philosophical questions we have pondered over for a millenia. Longer in fact. To know the creator is not within our capacity. Why? Because we are the 
+These are deeply philosophical questions we have pondered over for a millennia. Longer in fact. To know the creator is not within our capacity. Why? Because we are the 
 created. We are merely constructs of this universe and in our limited capacity we are barely even able to understand creation itself. We continue to learn more and 
 more about the human body, the brain, the ocean, the universe. It's not within our capacity to know the creator without divine inspiration or guidance.
 
