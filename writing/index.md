@@ -27,6 +27,9 @@ layout: home
       margin: 0;
       padding: 0;
     }
+    li {
+      margin-bottom: 5px;
+    }
   </style>
 </head>
 
@@ -34,5 +37,6 @@ layout: home
   <h1>Writing</h1>
   <ul>
     <li><a href="/why-are-we-here">Why are we here?</a></li>
+    <li><a href="/the-source-of-truth">The source of truth</a></li>
    </ul>
 </div>
