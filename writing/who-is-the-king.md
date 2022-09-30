@@ -47,5 +47,5 @@ faculties. If we are so intelligent then we should stop and think about what's b
 
 The world and everything around us is a sign. It's a sign telling us, hey you are here for a purpose, just think about it. The kings of this world 
 are preoccupied with their glory, their power and privilege, yet it's we the lesser people ("the subjects"), who have the opportunity to sit and 
-ponder over these words, these titles and layers of hierarchy. If their is only one true King, then what of those who call themselves kings, 
+ponder over these words, these titles and layers of hierarchy. If there is only one true King, then what of those who call themselves kings, 
 leaders and the rest of us?
