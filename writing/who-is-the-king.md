@@ -26,7 +26,7 @@ The truth is that we are here for a purpose, to serve God, and we will inevitabl
 So when this is the statement, when this is the truth we come to know and believe, what then of the kings, leaders and men of power in this world. 
 Should they yield power over us? Do they even yield power?
 
-The is only one with true Power, that is the Almighty, Allah (SWT).
+There is only one with true Power, that is the Almighty, Allah (SWT).
 
 The difficulty in understanding such conjecture is that it leaves the reader baffled or taken aback. If you have not already come to the same 
 conclusion, that there is only one true King, then understanding that statement is truly a journey of a lifetime. Because all that we know 
