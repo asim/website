@@ -41,10 +41,10 @@ layout: home
     <p><img src="/images/AA.png" /></p>
     <p>
       <ul style="padding: 0;">
-        <li><a href="https://www.linkedin.com/in/asimaslam/">L</a></li>
-        <li><a href="https://github.com/asim">G</a></li>
-        <li><a href="https://twitter.com/malsamisa">T</a></li>
-        <li><a href="https://medium.com/@asimaslam">M</a></li>
+        <li><a href="https://github.com/asim">Github</a></li>
+        <li><a href="https://www.linkedin.com/in/asimaslam/">LinkedIn</a></li>
+        <li><a href="https://medium.com/@asimaslam">Medium</a></li>
+        <li><a href="https://twitter.com/malsamisa">Twitter</a></li>
       </ul>
     </p>
     <p><a href="/writing">Writing</a></p>
