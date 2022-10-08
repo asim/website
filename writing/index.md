@@ -35,6 +35,7 @@ layout: home
 
 <div id="container">
   <h1>Writing</h1>
+  <p>Thoughts on Islam</p>
   <ul>
     <li><a href="/why-are-we-here">Why are we here?</a></li>
     <li><a href="/the-source-of-truth">The source of truth</a></li>
