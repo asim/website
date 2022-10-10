@@ -40,5 +40,6 @@ layout: home
     <li><a href="/why-are-we-here">Why are we here?</a></li>
     <li><a href="/the-source-of-truth">The source of truth</a></li>
     <li><a href="/who-is-the-king">Who is the King?</a></li>
+    <li><a href="/the-true-reality">The true reality</a></li>
    </ul>
 </div>
