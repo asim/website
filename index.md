@@ -32,7 +32,6 @@ layout: home
       list-style-type: none;
     }
     li {
-      display: inline;
       padding: 5px;
     }
   </style>
@@ -40,6 +39,7 @@ layout: home
   <div id="container">
     <p><img src="/images/AA.png" /></p>
     <p>
+      I am Asim Aslam
       <ul style="padding: 0;">
         <li><a href="https://github.com/asim">Github</a></li>
         <li><a href="https://www.linkedin.com/in/asimaslam/">LinkedIn</a></li>
