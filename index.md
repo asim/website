@@ -37,7 +37,7 @@ layout: home
   </style>
  
   <div id="container">
-    <p><img src="/images/AA.png" /></p>
+    <p><img src="/images/me.jpg" /></p>
     <p>
       I am Asim Aslam
       <ul style="padding: 0;">
