@@ -41,6 +41,6 @@ layout: home
     <li><a href="/the-source-of-truth">The source of truth</a></li>
     <li><a href="/who-is-the-king">Who is the King?</a></li>
     <li><a href="/the-true-reality">The true reality</a></li>
-    <li><a href="/the-power-of-zakat">The power of zakat</a></li>
+    <li><a href="/the-power-of-zakat">The power of Zakat</a></li>
    </ul>
 </div>

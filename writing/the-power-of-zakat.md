@@ -3,7 +3,7 @@ layout: posts
 permalink: /the-power-of-zakat
 ---
 
-# The power of zakat
+# The power of Zakat
 
 More and more of the world is falling into poverty. As inflation runs rampant, interest rates rise and war causes chaos 
 in food exports, energy prices and much more. We are in a crisis, an economic crisis, a crisis of faith and belief. We 
