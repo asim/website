@@ -44,7 +44,7 @@ layout: home
         <li><a href="https://github.com/asim">Github</a></li>
         <li><a href="https://www.linkedin.com/in/asimaslam/">LinkedIn</a></li>
         <li><a href="https://medium.com/@asimaslam">Medium</a></li>
-        <li><a href="https://twitter.com/malsamisa">Twitter</a></li>
+        <li><a href="https://twitter.com/_asimaslam">Twitter</a></li>
         <li><a href="/writing">Writing</a></li>
       </ul>
     </p>
