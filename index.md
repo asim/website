@@ -43,6 +43,7 @@ layout: home
       <ul style="padding: 0;">
         <li><a href="https://github.com/asim">Github</a></li>
         <li><a href="https://www.linkedin.com/in/asimaslam/">LinkedIn</a></li>
+        <li><a href="https://786.world/@asim" rel="me">Mastodon</a></li>
         <li><a href="https://medium.com/@asimaslam">Medium</a></li>
         <li><a href="https://twitter.com/_asimaslam">Twitter</a></li>
         <li><a href="/writing">Writing</a></li>
