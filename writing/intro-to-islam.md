@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title: Intro to Islam
 permalink: /intro-to-islam
 ---
