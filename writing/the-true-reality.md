@@ -1,5 +1,6 @@
 ---
 layout: posts
+title: The True Reality
 permalink: /the-true-reality
 ---
 

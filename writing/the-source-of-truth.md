@@ -1,5 +1,6 @@
 ---
 layout: posts
+title: The source of truth
 permalink: /the-source-of-truth
 ---
 

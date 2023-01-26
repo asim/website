@@ -1,5 +1,6 @@
 ---
 layout: posts
+title: Who is the King?
 permalink: /who-is-the-king
 ---
 
