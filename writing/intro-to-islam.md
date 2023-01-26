@@ -29,7 +29,6 @@ And there is none like unto Him.
 ```
 
 Meaning, Allah is the origin of everything, he always was and always will be, he was not born and does not bear children.
-
 Nothing compares to him.
 
 ### God's Throne
