@@ -1,5 +1,6 @@
 ---
 layout: posts
+title: The power of Zakat
 permalink: /the-power-of-zakat
 ---
 
