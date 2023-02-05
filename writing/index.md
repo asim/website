@@ -44,5 +44,6 @@ layout: home
     <li><a href="/the-power-of-zakat">The power of Zakat</a></li>
     <li><a href="/names-of-god">Names of God</a></li>
     <li><a href="/intro-to-islam">Intro to Islam</a></li>
+    <li><a href="/in-search-of-community">In search of community</a></li>
    </ul>
 </div>
