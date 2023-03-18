@@ -17,7 +17,7 @@ layout: home
     }
     html a {
       color: #333;
-      text-decoration: underline;
+      font-weight: bold;
     }
     img {
       border-radius: 50%;
@@ -28,17 +28,23 @@ layout: home
       padding: 40px 0;
       text-align: center;
     }
+    h1 a:hover {
+      text-decoration: none;
+    } 
     ul {
       list-style-type: none;
     }
     li {
       padding: 5px;
+      display: inline-block;
     }
   </style>
  
   <div id="container">
     <p><img src="/images/me.jpg" /></p>
     <p>
+      <p style="background: white; padding: 10px;">Asim Aslam is a technologist by training, founder of the open source startup Micro and a devout follower of Islam.</p>
+      <p>Places you can find Asim on the internet</p>
       <ul style="padding: 0;">
         <li><a href="https://github.com/asim">Github</a></li>
         <li><a href="https://www.linkedin.com/in/asimaslam/">LinkedIn</a></li>
