@@ -23,7 +23,7 @@ layout: home
       border-radius: 50%;
     }
     #container {
-      width: 300px;
+      width: 500px;
       margin: 0 auto;
       padding: 40px 0;
       text-align: center;
@@ -50,8 +50,8 @@ layout: home
         <li><a href="https://github.com/asim">Github</a></li>
         <li><a href="https://www.linkedin.com/in/asimaslam/">LinkedIn</a></li>
         <li><a href="https://medium.com/@asimaslam">Medium</a></li>
+        <li><a href="https://asimaslam.substack.com">Substack</a></li>
         <li><a href="https://twitter.com/_asimaslam">Twitter</a></li>
-        <li><a href="/writing">Writing</a></li>
       </ul>
     </p>
   </div>
