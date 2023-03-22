@@ -23,7 +23,7 @@ layout: home
       border-radius: 50%;
     }
     #container {
-      width: 500px;
+      max-width: 500px;
       margin: 0 auto;
       padding: 40px 0;
       text-align: center;
