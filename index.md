@@ -44,7 +44,7 @@ layout: home
     <p><img src="/images/me.jpg" /></p>
     <p>
       <p style="background: white; padding: 10px;">Asim Aslam is a technologist by training, 
-	founder of the open source project Micro and a follower of Islam.</p>
+	founder of Micro and a follower of Islam.</p>
       <p>Places you can find Asim on the internet</p>
       <ul style="padding: 0;">
         <li><a href="https://github.com/asim">Github</a></li>
