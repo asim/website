@@ -48,7 +48,6 @@ layout: home
         <li><a href="https://github.com/asim">Github</a></li>
         <li><a href="https://www.linkedin.com/in/asimaslam/">LinkedIn</a></li>
         <li><a href="https://medium.com/@asimaslam">Medium</a></li>
-        <li><a href="https://asimaslam.substack.com">Substack</a></li>
       </ul>
     </p>
   </div>
