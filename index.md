@@ -49,7 +49,6 @@ layout: home
         <li><a href="https://www.linkedin.com/in/asimaslam/">LinkedIn</a></li>
         <li><a href="https://medium.com/@asimaslam">Medium</a></li>
         <li><a href="https://asimaslam.substack.com">Substack</a></li>
-        <li><a href="https://twitter.com/_asimaslam">Twitter</a></li>
       </ul>
     </p>
   </div>
