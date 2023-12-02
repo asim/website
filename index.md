@@ -46,7 +46,6 @@ layout: home
       <p>Places you can find me on the internet</p>
       <ul style="padding: 0;">
         <li><a href="https://github.com/asim">Github</a></li>
-        <li><a href="https://www.linkedin.com/in/asimaslam/">LinkedIn</a></li>
       </ul>
     </p>
   </div>
