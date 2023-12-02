@@ -47,7 +47,6 @@ layout: home
       <ul style="padding: 0;">
         <li><a href="https://github.com/asim">Github</a></li>
         <li><a href="https://www.linkedin.com/in/asimaslam/">LinkedIn</a></li>
-        <li><a href="https://medium.com/@asimaslam">Medium</a></li>
       </ul>
     </p>
   </div>
