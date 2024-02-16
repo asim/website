@@ -42,9 +42,13 @@ layout: home
  
   <div id="container">
     <p><img src="/images/me.jpg" /></p>
+    <p>Startup founder, investor, engineer, etc, etc. </p>
     <p>
       <ul style="padding: 0;">
+        <li><a href="https://www.linkedin.com/in/asimaslam">LinkedIn</a></li>
         <li><a href="https://github.com/asim">Github</a></li>
+       <li><a href="https://twitter.com/_asimaslam">Twitter</a></li>
+      <li><a href="https://micro.dev">Micro</a></li>
       </ul>
     </p>
   </div>
